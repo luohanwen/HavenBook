@@ -1,10 +1,11 @@
 # Summary
 
+## 分组2
+
+* [目录](SUMMARY.md)
+
 ## ddd
 
-* [前言](README.md)
-* [目录](SUMMARY.md)
 * [Markdown模板](/Markdown模板.md)
-
-## 分组2
+* [前言](README.md)
 
