@@ -1,11 +1,8 @@
 # Summary
+- 1.[前言](readme.md)
+## github项目文档
+  2.1 mobile-flexible  
+      - 2.1.1 getting start
 
-## 分组2
 
-* [目录](SUMMARY.md)
-
-## ddd
-
-* [Markdown模板](/Markdown模板.md)
-* [前言](README.md)
 
